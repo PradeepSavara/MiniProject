@@ -1,4 +1,4 @@
-# Weapon Detection System
+# MiniProject
 
 A real-time weapon detection system using deep learning for video and image analysis. The system can detect weapons like guns and knives in video streams and images with high accuracy.
 
